@@ -5,10 +5,10 @@ const ExceptionCare = () => {
   return (
     <div className="container px-5 py-4">
       <div className="row">
-        <div className="col-md-4">
+        <div className="col-lg-5">
           <img src={fourth} alt="child-img" style={{ height: "400px" }} />
         </div>
-        <div className="col-md-6">
+        <div className="col-lg-7">
           <h2>
             Exceptional Dental
             <br /> Care , on Your Terms

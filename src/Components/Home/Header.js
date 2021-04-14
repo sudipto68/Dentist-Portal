@@ -5,6 +5,10 @@ import "./Header.css";
 import BusinessInfo from "./BusinessInfo";
 import Services from "./Services";
 import ExceptionCare from "./ExceptionCare";
+import Appoinment from "./Appoinment";
+import Testimonial from "./Testimonial";
+import Blog from "./Blog";
+import Doctors from "./Doctors";
 
 const Header = () => {
   return (
@@ -14,6 +18,10 @@ const Header = () => {
       <BusinessInfo />
       <Services />
       <ExceptionCare />
+      <Appoinment />
+      <Testimonial />
+      <Blog />
+      <Doctors />
     </div>
   );
 };

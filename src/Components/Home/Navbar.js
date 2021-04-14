@@ -45,7 +45,11 @@ const Navbar = () => {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link text-white ms-5" href="#">
+                <a
+                  className="nav-link text-white ms-5"
+                  style={{ marginRight: "-5px" }}
+                  href="#"
+                >
                   Reviews
                 </a>
               </li>
